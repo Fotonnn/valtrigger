@@ -28,4 +28,5 @@ The following commands are provided strictly for educational purposes only. It i
 ## Showcase
 
 ## MENU
-![image](https://github.com/user-attachments/assets/d6318933-8560-46f5-b03f-afd23e909c6e)
+![image](https://github.com/user-attachments/assets/df14f75e-9516-4d57-9ced-9867a6e50ca6)
+
