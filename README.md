@@ -5,7 +5,7 @@ UD trigger and aimassist for valorant, i've been using for 8 months and no signa
 
 To ensure you don't get banned,, create a .bat for the "filechanger" file and wait to the exe file.
 
-
+UC post: https://www.unknowncheats.me/forum/valorant/657777-triggerbot-aimassist-source.html#post4185446
 ## Features
 
 - Login menu
